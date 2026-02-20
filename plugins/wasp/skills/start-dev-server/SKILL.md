@@ -62,7 +62,7 @@ Ask the user (via the AskUserQuestion tool) which method they'd like to use for 
 
 | Option | Description |
 |--------|-------------|
-| **Chrome DevTools MCP (recommended)** | Use the `mcp__plugin_wasp_chrome-devtools` tool (bundled with the plugin) |
+| **Playwriter (recommended)** | Use the playwriter skill, which is already installed |
 | **Built-in Chrome** | Use Claude Code's built-in browser connection (check status with `/chrome` command) |
 | **Manual** | User will manually copy/paste console output when needed |
 | **Other** | User has another preference |

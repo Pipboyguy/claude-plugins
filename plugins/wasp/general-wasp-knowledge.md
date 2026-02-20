@@ -8,7 +8,7 @@ This project uses Wasp, a batteries-included framework for building full-stack w
 
 Run the plugin's `start-dev-server` skill with the recommended options to give Claude full debugging visibility:
   - Start the Wasp development server as a background task to give Claude direct access to server logs and build errors.
-  - Select the Chrome DevTools MCP server to give Claude visibility into browser console logs, UI functionality, network requests, and runtime errors.
+  - Use the Playwriter MCP server to give Claude visibility into browser console logs, UI functionality, network requests, and runtime errors.
 
 ### Documentation
 

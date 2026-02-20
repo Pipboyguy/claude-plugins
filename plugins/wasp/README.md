@@ -61,8 +61,7 @@ For the best experience, add these permissions to your project or user settings:
       "Bash(wasp:*)",
       "Skill(wasp:*)",
       "WebFetch(domain:wasp.sh)",
-      "WebFetch(domain:raw.githubusercontent.com)",
-      "mcp__plugin_wasp_chrome-devtools__*"
+      "WebFetch(domain:raw.githubusercontent.com)"
     ]
   }
 }
